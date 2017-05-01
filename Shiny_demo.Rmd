@@ -16,7 +16,7 @@ data("paulist_missions")
 
 # Shiny
 
-Shiny is an R program for making web applications. The apps allow users to manipulate variables on a website and explore a particular set of data without having to know computer code. This makes Shiny a valuable tool for those interested in public history or wishing to make their data accessible by a larger audience. Interesting examples of Shiny apps can be found in the Shinny [showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/)   
+Shiny is an R program for making web applications. The apps allow users to manipulate variables on a website and explore a particular set of data without having to know computer code. This makes Shiny a valuable tool for those interested in public history or wishing to make their data accessible by a larger audience. Interesting examples of Shiny apps can be found in the Shinny [showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/).   
 
 ## How Shiny Works
 
@@ -29,7 +29,7 @@ Shiny is an example of reactive programming. In essence this means that the app 
 Shiny apps use the following 3 part architecture: 
 
 ```{r, eval=FALSE}
-ui <- fluidPage("Hellow World")
+ui <- fluidPage("Hello World")
 
 server <- function(input, output) {}
 
