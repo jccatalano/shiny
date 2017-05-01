@@ -1,1 +1,1 @@
-This is a brief Shiny tutorial created for Clio II. An html version can be found [here](). 
+This is a brief Shiny tutorial created for Clio II. An html version can be found [here](https://jccatalano.github.io/shiny/Shiny_demo.html). 
